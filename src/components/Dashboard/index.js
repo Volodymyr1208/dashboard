@@ -1,6 +1,5 @@
 import { Table } from "antd";
 import React from "react";
-import Map from "../../assets/map.png";
 import DashboardImg from "../../assets/dashboard.png";
 import "./style.css";
 
